@@ -1,0 +1,10 @@
+{
+  "name": "mailer-service",
+  "version": "1.0.0",
+  "description": "A mailer service to send emails from contact forms",
+  "main": "index.js",
+  "repository": "https://github.com/RyanCallahan312/mailer-service.git",
+  "author": "Ryan Callahan <RyanCallahan312@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
