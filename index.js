@@ -22,6 +22,6 @@ app.post("/api/mailer", async (req, res) => {
   console.log(response);
 });
 
-const PORT = process.env.PORT || 8001;
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => console.log("Server started..."));
