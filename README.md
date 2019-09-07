@@ -7,4 +7,5 @@ Hosted at heroku.
 to use:
 
 method    address                                                     payload
+
 POST      https://contact-mailer-service.herokuapp.com/api/mailer     { mailData, mailerInfo } 
