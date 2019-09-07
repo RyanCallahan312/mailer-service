@@ -6,7 +6,7 @@ Hosted at heroku.
 
 
 # Usage
-
+```
 method: POST
 
 address: https://contact-mailer-service.herokuapp.com/api/mailer
@@ -33,3 +33,4 @@ payload example: {
         }
     }
 }
+```
